@@ -1,7 +1,6 @@
 # World Flipper
-A tool for world flipper to farm automatically on TW server.<br><br>
+A tool for World Flipper to farm automatically on TW server.<br><br>
 ![](https://i.imgur.com/4etK6yy.png)
-
 
 # How to Use
 1. Download from release.
