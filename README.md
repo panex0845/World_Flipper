@@ -1,5 +1,7 @@
 # World Flipper
   Auto farmer for world flipper (TW server). <br>
+  
+  Support emulator.<br>
   ![](https://i.imgur.com/Lv1aycH.png)
   
 # How to Use
