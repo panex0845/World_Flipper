@@ -2,7 +2,7 @@
   Auto farmer for world flipper (TW server). <br>
   
   Support to bypass SafetyNet on android emulator.<br>
-  ![](https://i.imgur.com/Lv1aycH.png)
+  ![](https://i.imgur.com/WaguRan.png)
   
 # How to Use
   Download from release.
