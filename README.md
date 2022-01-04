@@ -13,4 +13,4 @@
 
 # todo
 1.Trans to english<br>
-  ![](https://i.imgur.com/9RVAMhZ.png)
+  ![](https://i.imgur.com/7RJj3Gt.png)
