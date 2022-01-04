@@ -12,5 +12,5 @@
   
 
 # todo
-1.Trans to english<br>
+1.support another language<br>
   ![](https://i.imgur.com/7RJj3Gt.png)
