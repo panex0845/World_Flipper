@@ -20,4 +20,3 @@
 # todo
 <strike>1.support another language</strike><br>
   <strike>支援其他語言(因為一些事實上的原因，可能不會支援)</strike><br>
-  ![](https://i.imgur.com/7RJj3Gt.png)
