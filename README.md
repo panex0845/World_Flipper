@@ -5,7 +5,7 @@
   Support to bypass SafetyNet on android emulator automatically.<br>
   支援模擬器自動過驗證。<br>
 
-  ![](https://i.imgur.com/WaguRan.png)
+  ![](https://i.imgur.com/biv25F7.png)
   
 # How to Use
   1.Download from release.<br>
