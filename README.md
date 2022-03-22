@@ -20,7 +20,7 @@
 
 
 # How to Use
-  * Download from ![release](https://tinyurl.com/ycg24zqw).
+  * Download from ![release](https://github.com/panex0845/World_Flipper/releases).
   
   * Step:<br>
     [![YT](https://img.youtube.com/vi/fUv-UlT5HfU/0.jpg)](https://www.youtube.com/watch?v=fUv-UlT5HfU)<br>
