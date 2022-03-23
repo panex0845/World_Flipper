@@ -10,6 +10,7 @@
 # Features
 
 - [x] Support android devices and emulator (resolution 9:16)
+- [x] Bypass safetynet
 - [x] Reroll
 - [x] Main story (from chapter 1 to finally chapter. Include EX mode)
 - [x] Boss battle
