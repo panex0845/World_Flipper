@@ -1,16 +1,15 @@
 # WFBot
   Auto farmer for world flipper (TW server).<br>
-  Support to bypass SafetyNet on android emulator automatically.<br>
   
   彈射世界機器人(台灣伺服器專用)。<br>
-  支援模擬器自動過驗證。<br>
+
   ![](https://i.imgur.com/biv25F7.png)
   
   
 # Features
 
 - [x] Support android devices and emulator (resolution 9:16)
-- [x] Bypass safetynet
+- [x] Bypass safetynet on android emulator
 - [x] Reroll
 - [x] Main story (from chapter 1 to finally chapter. Include EX mode)
 - [x] Boss battle
@@ -28,6 +27,3 @@
   
 # Note
   For academic exchange only. Use at your own risk.<br>
-  
-# todo
-  Nothing to do.
